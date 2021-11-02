@@ -1,2 +1,4 @@
 # 3D_Water_Surface_Simulation
-A water simulation, created as a part of a graduate level numerical methods class for partial differential equations at the University of Waterloo.
+
+This project was completed to fulfill a requirement in the University of Waterloo's CM 750 class - Numerical Solutions of Partial Differential Equations.
+Here, we use finite volume methods and the shallow water equations to simulate a perturbed fluid surface with boxed boundary conditions.
